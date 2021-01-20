@@ -52,7 +52,7 @@ module.exports = {
   blogger: {
     // 博主信息，显示在首页侧边栏
     avatar: 'https://mirror-gold-cdn.xitu.io/16de412139e49fd21c3?imageView2/1/w/180/h/180/q/85/format/webp/interlace/1',
-    name: 'Shanshan Lu',
+    name: 'Shanshan Lv',
     slogan: '努力学习前端的33',
   },
   social: {
